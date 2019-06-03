@@ -1,0 +1,7 @@
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\bin\x86\Debug\SystemCollector.dll.config
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\bin\x86\Debug\SystemCollector.dll
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\bin\x86\Debug\SystemCollector.pdb
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\obj\x86\Debug\CollectorService.csproj.CoreCompileInputs.cache
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\obj\x86\Debug\CollectorService.csproj.Fody.CopyLocal.cache
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\obj\x86\Debug\SystemCollector.dll
+C:\Users\Otto\Downloads\SharpPolarbear\SharpPolarbear\CollectorService\obj\x86\Debug\SystemCollector.pdb
