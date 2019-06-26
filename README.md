@@ -11,4 +11,4 @@ Windows Defender seams to have a heuristic detection for Applications creating a
 You have to run the executable twice to get a system shell. 
 
 ## Legal disclaimer:
-Usage of WinPwn for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational / pentesting purposes.
+Usage of SharpPolarBear for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational / pentesting purposes.
